@@ -1,4 +1,4 @@
-# dowdatasciencechallenge.github.io
+# DSChemAIandStats.github.io
 
 # Dow Case Study
 
