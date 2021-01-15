@@ -1,4 +1,4 @@
-# DowDataScienceChallenge.github.io
+# dowdatasciencechallenge.github.io
 
 # Dow Case Study
 
